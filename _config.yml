@@ -2,3 +2,4 @@ theme: jekyll-theme-architect
 title: Etsurin Ou
 subtitle:
 description:
+show_downloads: false
