@@ -2,7 +2,7 @@
 
 Here is Etsurin Ou. 
 
-## 本人について
+## About Me
 
 I am a fool. 
 
