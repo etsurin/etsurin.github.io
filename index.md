@@ -1,8 +1,5 @@
-# エツリンのホームページへようこそ
+# About Me
 
-Here is Etsurin Ou. 
+I am a fool
 
-## About Me
-
-I am a fool. 
 
